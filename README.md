@@ -17,5 +17,6 @@ This repository contains a simple command-line calculator application written in
 1. Save: Save the `Calculator.java` file to your local machine.
 2. Compile:Open a terminal or command prompt, navigate to the directory where you saved the file, and compile the Java code:
 
-   javac Calculator.java
-   java Calculator
+   i. javac Calculator.java
+
+   ii. java Calculator
