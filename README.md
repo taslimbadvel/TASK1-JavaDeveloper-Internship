@@ -7,7 +7,7 @@ This repository contains a simple command-line calculator application written in
 - Addition:Adds two numbers.
 - Subtraction: Subtracts one number from another.
 - Multiplication:Multiplies two numbers.
-- Division: Divides one number by another, with robust handling for division by zero.
+- Division: Divides one number by another, with handling for division by zero.
 - User-friendly Menu:Guides the user through available operations.
 - Continuous Operation:Allows multiple calculations in a single run until the user explicitly exits.
 - Input Validation: Basic handling for non-numeric input.
