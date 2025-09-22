@@ -20,3 +20,8 @@ This repository contains a simple command-line calculator application written in
    i. javac Calculator.java
 
    ii. java Calculator
+
+   # Tools & resources
+
+   1.vscode
+   2.geeks for geeks for reference
